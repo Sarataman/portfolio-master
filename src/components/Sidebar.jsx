@@ -23,7 +23,7 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://drive.google.com/file/d/12c5E5Mat0MyKZTI4sMNdbYxk2T8es4JK/view?usp=drivesdk">Resume</a></li>
+                <li><a href="https://drive.google.com/file/d/1e0tjTmxpNNriL0VprU0ninsWVj_rgcXC/view?usp=sharing">Resume</a></li>
                 <li><a href="https://www.linkedin.com/in/ehimenmen-ataman-1290b7109/" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/sarataman"  rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
